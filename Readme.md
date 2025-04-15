@@ -19,7 +19,7 @@ Because I have many projects at different places, I decided to write this file. 
  - [vk_intership_rest_api](https://github.com/pvpender/vk_intership_rest_api) – Simple REST API for internship
 
 ## Go
- **SOON**
+ - [Merch Shop](https://github.com/pvpender/avito-internship-winter) – small merch shop backend
 
 # TypeScript
  - [n8n-nodes-telegram-polling](https://github.com/pvpender/n8n-nodes-telegram-polling) – An n8n trigger node for telegram that uses the getUpdates API to receive updates with long polling.
